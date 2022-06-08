@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/superadminDentaSoft/DentaSoftUi/_apis/build/status/VitaliyKostin.azure-pipeline-test?branchName=main)](https://dev.azure.com/superadminDentaSoft/DentaSoftUi/_build/latest?definitionId=9&branchName=main)
 ---
 page_type: sample
 languages:
